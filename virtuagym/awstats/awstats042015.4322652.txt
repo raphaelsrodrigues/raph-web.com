@@ -1,0 +1,700 @@
+AWSTATS DATA FILE 6.7 (build 1.892)
+# If you remove this file, all statistics for date 201504 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2536                
+POS_VISITOR 17486               
+POS_DAY 23531               
+POS_DOMAIN 3423                
+POS_LOGIN 3658                
+POS_ROBOT 3813                
+POS_WORMS 4235                
+POS_EMAILSENDER 4366                
+POS_EMAILRECEIVER 4509                
+POS_SESSION 24357               
+POS_SIDER 24568               
+POS_FILETYPES 4644                
+POS_OS 4834                
+POS_BROWSER 4956                
+POS_SCREENSIZE 5171                
+POS_UNKNOWNREFERER 5245                
+POS_UNKNOWNREFERERBROWSER 5636                
+POS_ORIGIN 5981                
+POS_SEREFERRALS 6124                
+POS_PAGEREFS 6290                
+POS_SEARCHWORDS 6554                
+POS_KEYWORDS 6706                
+POS_MISC 2200                
+POS_ERRORS 6765                
+POS_CLUSTER 3514                
+POS_SIDER_404 6925                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150501030934 1 0 10156252655827
+FirstTime 20150401030255
+LastTime 20150430191742
+LastUpdate 20150502021720 1 0 0 0 0
+TotalVisits 180                 
+TotalUnique 65                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 188                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 1 243837 4 4 21187
+1 10 15 681438 14 17 50838
+2 56 120 606993 18 33 441847
+3 173 329 3480899 32 70 7257994
+4 629 1432 74537718 25 79 7353347
+5 739 1355 65622954 42 179 12704009
+6 1013 1594 66743101 47 253 1815970
+7 972 2101 94090424 45 2064 83648888
+8 524 994 15967972 40 80 1995757
+9 493 958 21023397 80 172 1637337
+10 400 1006 57182731 62 147 2449700
+11 639 1666 74112716 76 204 5691007
+12 531 1154 49326650 16 109 5787097
+13 204 401 15465359 11 29 2045846
+14 111 297 31941344 10 30 2065360
+15 179 632 22547308 10 64 5250401
+16 150 279 21583251 2 14 541924
+17 157 559 39697130 8 29 2890132
+18 67 148 4715703 15 31 614405
+19 24 71 6258130 8 13 51325
+20 20 56 3490681 16 27 140226
+21 0 1 243837 16 16 59484
+22 1 7 288004 7 12 73260
+23 0 2 449307 9 9 31242
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 7092 15178 670300884
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+baiduspider 107 706925 20150430224409 0
+googlebot 106 1144507 20150429003853 0
+msnbot\-media 21 9996753 20150410052548 0
+\wbot[\/\-] 8 44760 20150430021750 0
+slurp 6 36184 20150416214301 0
+surveybot 2 11313 20150422065242 0
+ia_archiver 1 4709 20150405233616 0
+crawl 1 5685 20150421053627 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 1619 1863811 0 0
+php 6470 24507911 0 0
+png 760 3054340 0 0
+html 622 2430116 0 0
+jpg 4792 633442186 0 0
+js 876 4998582 0 0
+gif 39 3938 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 8296
+winxp 21
+winlong 1
+win2003 19
+unix 177
+winnt 6140
+Unknown 425
+linux 99
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 12
+msie6.0 2
+firefox6.0.2 7
+mozilla 725
+firefox37.0 45
+firefox14.0.1 10
+msie7.0 19
+firefox3.6.3 1
+Unknown 415
+firefox36.0 1
+safari 13940
+firefox1.0.4 12
+firefox31.0 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+- 20150402133928
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150430170820
+visionutils/0.2 20150429102118
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20150420204026
+Firefox 20150404063010
+Mozilla/4.0_(compatible;) 20150429103521
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+- 20150402133928
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150430170820
+visionutils/0.2 20150429102118
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20150420204026
+Firefox 20150404063010
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 388 766
+From1 0 0
+From2 3 3
+From3 52 52
+From4 6649 14357
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 2 2
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://m.facebook.com 34 34
+https://www.facebook.com 14 14
+http://l.facebook.com/l.php 3 3
+http://hvd-store.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 4 2640
+302 237 159505
+206 732 131109553
+500 8 5648
+404 2393 1375975
+301 59 14426
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 126
+/robots.txt 54 -
+/letsexploreamsterdam/sights/sightspictures.html 2 http://www.raph-web.com/letsexploreamsterdam/sights/redlight.php
+/letsexploreamsterdam/sights/redlight.html 2 http://www.raph-web.com/letsexploreamsterdam/index.php
+/letsexploreamsterdam/sights/canalbeltpt.html 3 http://www.raph-web.com/letsexploreamsterdam/sights/canalbelt.php
+/letsexploreamsterdam/letsexploreamsterdam/index.php 6 http://www.raph-web.com/letsexploreamsterdam/Tours/biketour.php
+/pictures/vondel2.jpg 19 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/indexpt.html 4 http://www.raph-web.com/letsexploreamsterdam/indexpt.php
+/letsexploreamsterdam/letsexploreamsterdam/sights/sights.html 2 http://www.raph-web.com/letsexploreamsterdam/
+/pictures/flowerm1.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/jordaan6.jpg 20 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/museums1.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/tours.html 7 http://www.raph-web.com/letsexploreamsterdam/sights/vondelparkpt.php
+/letsexploreamsterdam/letsexploreamsterdam/contact.php 3 http://www.raph-web.com/letsexploreamsterdam/Tours/biketour.php
+/sights/sightspt.html 1 -
+/letsexploreamsterdam/sights/flowermarketpt.html 1 -
+/m/ 1 -
+/pictures/redlight4.jpg 19 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/vondel8.jpg 19 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/html 3 http://raph-web.com/languages.php
+/letsexploreamsterdam/sights/flowermarket.html 1 -
+/scripts/fancybox_loading.gif 1 http://www.raph-web.com/scripts/jquery.fancybox.css
+/Contact.php 1 -
+/letsexploreamsterdam/letsexploreamsterdam/js/jquery.min.js 10 http://www.raph-web.com/letsexploreamsterdam/Tours/biketour.php
+/pictures/museums5.jpg 17 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/languages/images/profile3.jpg 6 http://raph-web.com/languages/mylanguage.php
+/letsexploreamsterdam/sights/jordaan.html 1 -
+/pictures/vondel5.jpg 19 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/flowerm3.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/canalbelt.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/js/myQuiz.js 156 http://raph-web.com/letsexploreamsterdam/
+/pictures/vondel4.jpg 19 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/js/jquery.cycle.all.2.74.js 12 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/static/js/window-open.js 25 http://www.raph-web.com/letsexploreamsterdam/index.php
+/mobile/ 1 -
+/pictures/jordaan4.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/vondel6.jpg 19 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/canalbelt1.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/redlight1.jpg 19 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/RL1.jpg 52 http://raph-web.com/letsexploreamsterdam/indexpt.html
+/letsexploreamsterdam/index.html 14 http://www.raph-web.com/letsexploreamsterdam/sights/vondelpark.php
+/js/app.js 3 http://raph-web.com/letsexploreamsterdam/tours.html
+/scripts/fancybox_loading@2x.gif 5 http://raph-web.com/portfolio.php
+/letsexploreamsterdam/static/js/jquery.min.js 25 http://www.raph-web.com/letsexploreamsterdam/index.php
+/contact.html 1 -
+/pictures/jordaan5.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/images/social1.jpg 1 http://www.raph-web.com/portfolio.php
+/pictures/flowerm2.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/indexpt.html 2 http://www.raph-web.com/letsexploreamsterdam/contact.php
+/letsexploreamsterdam/letsexploreamsterdam/sightspictures.php 1 -
+/letsexploreamsterdam/sights/redlightpt.html 1 -
+/home.png 2 http://raph-web.com/index.php
+/wp-login.php 1 -
+/pictures/JA1.jpg 52 http://raph-web.com/letsexploreamsterdam/indexpt.html
+/pictures/to-top@2x.png 120 http://raph-web.com/letsexploreamsterdam/
+/pictures/FM1.jpg 52 http://raph-web.com/letsexploreamsterdam/indexpt.html
+/letsexploreamsterdam/sights/canalbelt.html 7 http://www.raph-web.com/letsexploreamsterdam/index.php
+/letsexploreamsterdam/sights/sights/jordaan.php 1 http://www.raph-web.com/letsexploreamsterdam/sights/sights.php
+/pictures/CB2.jpg 52 http://raph-web.com/letsexploreamsterdam/indexpt.html
+/letsexploreamsterdam/letsexploreamsterdam/sights.php 1 -
+/pictures/vondel.jpg 19 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/apple-touch-icon.png 2 -
+/letsexploreamsterdam/letsexploreamsterdam/index.html 2 http://www.raph-web.com/letsexploreamsterdam/
+/pictures/jordaan.jpg 20 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/static/js/jquery.cycle.all.2.74.js 25 http://www.raph-web.com/letsexploreamsterdam/index.php
+/letsexploreamsterdam/letsexploreamsterdam/js/app.js 20 http://www.raph-web.com/letsexploreamsterdam/Tours/biketour.php
+/static/js/jquery.cycle.all.2.74.js 220 http://raph-web.com/letsexploreamsterdam/
+/tours.html 1 -
+/pictures/canalbelt2.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/museums4.jpg 17 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/sights/mystyle.css 11 http://www.raph-web.com/letsexploreamsterdam/sights/sights.php
+/pictures/jordaan3.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/canalbelt3.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/Tours/pictures/pt.jpg 4 http://www.raph-web.com/letsexploreamsterdam/Tours/boattour.php
+/pictures/img1.jpg 8 http://raph-web.com/letsexploreamsterdam/tours.html
+/pictures/museums10.jpg 15 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/letsexploreamsterdam/tours.php 2 http://www.raph-web.com/letsexploreamsterdam/Tours/boattour.php
+/index.html 6 http://raph-web.com/letsexploreamsterdam/indexpt.html
+/letsexploreamsterdam/sights/sights/redlight.php 1 http://www.raph-web.com/letsexploreamsterdam/sights/sights.php
+/raphie 1 http://www.raph-web.com/portfolio.php
+/js/jquery.min.js 12 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/VP1.jpg 52 http://raph-web.com/letsexploreamsterdam/indexpt.html
+/scripts/fancybox_sprite@2x.png 6 http://raph-web.com/portfolio.php
+/letsexploreamsterdam/letsexploreamsterdam/js/myQuiz.js 10 http://www.raph-web.com/letsexploreamsterdam/Tours/biketour.php
+/letsexploreamsterdam/sights/sights/canalbelt.php 1 http://www.raph-web.com/letsexploreamsterdam/sights/sights.php
+/pictures/MU1.jpg 47 http://www.raph-web.com/letsexploreamsterdam/sights.php
+/images/inspect2.jpg 3 http://raph-web.com/languages.php
+/pictures/museums3.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/museums11.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/Tours/boattour.html 1 http://www.raph-web.com/letsexploreamsterdam/tours.php
+/pictures/en.jpg 5 http://raph-web.com/letsexploreamsterdam/indexpt.html
+/pictures/museums8.jpg 16 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/sights/sights/canalbelt.html 1 http://www.raph-web.com/letsexploreamsterdam/sights/sights.php
+/letsexploreamsterdam/sights/museums.html 2 http://raph-web.com/letsexploreamsterdam/
+/images/profile3.jpg%20/%3E 1 http://raph-web.com/languages.php
+/apple-touch-icon-precomposed.png 5 -
+/pictures/museums9.jpg 15 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/sights/sightspictures.html 1 -
+/letsexploreamsterdam/Tours/indexpt.php 1 -
+/static/js/jquery.min.js 222 http://raph-web.com/letsexploreamsterdam/
+/pictures/vondel3.jpg 19 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/vondel7.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/static/js/window-open.js 220 http://raph-web.com/letsexploreamsterdam/
+/letsexploreamsterdam/sights/vondelparkpt.html 2 http://www.raph-web.com/letsexploreamsterdam/sights/vondelpark.php
+/letsexploreamsterdam/sights/sightspt.html 1 -
+/pictures/canalbelt4.jpg 20 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/Tours/pictures/img1.jpg 2 http://www.raph-web.com/letsexploreamsterdam/Tours/boattour.php
+/mystyle.css 5 http://raph-web.com/letsexploreamsterdam/tours.html
+/letsexploreamsterdam/letsexploreamsterdam/js/window-open.js 10 http://www.raph-web.com/letsexploreamsterdam/Tours/biketour.php
+/pictures/museums2.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/redlight3.jpg 19 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/letsexploreamsterdam/tours.html 1 http://www.raph-web.com/letsexploreamsterdam/
+/pictures/museums7.jpg 16 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/museums6.jpg 17 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/pictures/redlight5.jpg 21 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/sights/sights.html 7 http://www.raph-web.com/letsexploreamsterdam/index.php
+/letsexploreamsterdam/sights/jordaanpt.html 1 -
+/pictures/flowerm5.jpg 20 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/letsexploreamsterdam/js/jquery.cycle.all.2.74.js 10 http://www.raph-web.com/letsexploreamsterdam/Tours/biketour.php
+/pictures/redlight2.jpg 20 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/sights/vondelpark.html 1 -
+/pictures/jordaan2.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/letsexploreamsterdam/sights/pictures/pt.jpg 10 http://www.raph-web.com/letsexploreamsterdam/sights/sights.php
+/pictures/flowerm4.jpg 18 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+/sights/sights.html 1 -
+/letsexploreamsterdam/sights/pictures/img1.jpg 11 http://www.raph-web.com/letsexploreamsterdam/sights/sights.php
+/js/window-open.js 12 http://www.raph-web.com/letsexploreamsterdam/sightspictures.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 188
+77.248.173.198 6638 13714 511609674 20150430191742
+62.140.132.60 93 103 227650 20150403094614
+92.111.4.92 72 126 11653257 20150417074709
+62.140.132.182 24 30 79293 20150403153251
+62.140.132.32 18 71 528439 20150426193853
+38.100.21.65 17 19 67383 20150427111413
+173.252.88.183 15 25 1348856 20150410151517
+173.252.88.187 14 28 2075163 20150410151517
+92.111.221.21 13 59 11030744 20150408130629
+173.252.88.182 12 30 2591862 20150410151517
+77.99.187.177 1 11 146113 20150429202527
+54.166.96.221 1 1 5685 20150423090926
+173.252.100.117 0 1 243837 
+173.252.74.119 0 1 243837 
+173.252.120.118 0 3 560831 
+173.252.73.113 0 1 300802 
+173.252.88.152 0 3 11853 
+80.215.194.59 3 21 4347603 20150422081551
+123.125.68.26 0 1 15204 
+173.252.114.116 0 1 243837 
+96.227.124.37 1 1 5628 20150409060049
+173.252.88.153 0 4 394102 
+66.220.158.116 0 3 731511 
+62.72.192.84 3 26 5778500 20150430130750
+173.252.112.115 0 3 617796 
+173.252.73.118 0 2 442894 
+173.252.102.118 0 1 3951 
+173.252.88.180 6 15 1489652 20150410152546
+31.13.100.116 0 1 243837 
+173.252.77.116 0 1 243837 
+84.83.63.230 1 6 44166 20150408142048
+173.252.88.184 10 21 1490687 20150410151514
+123.125.68.45 0 1 273587 
+173.252.114.114 0 1 243837 
+173.252.120.113 0 5 1105470 
+173.252.110.112 0 1 300802 
+173.252.105.112 0 2 247788 
+69.171.230.116 0 1 300802 
+62.72.192.112 9 125 31521963 20150422044809
+69.171.237.117 0 2 316994 
+87.217.126.4 1 6 44166 20150408152916
+69.171.235.112 0 4 1753172 
+173.252.110.119 0 2 304753 
+173.252.114.112 0 1 3951 
+173.252.74.112 0 4 595621 
+66.220.156.117 0 1 243837 
+173.252.113.115 0 1 243837 
+173.252.114.118 0 2 442894 
+66.220.159.117 0 1 243837 
+69.171.237.112 0 4 607506 
+173.252.80.113 0 2 487674 
+173.252.112.118 0 3 764896 
+173.252.88.214 0 1 243837 
+173.252.112.117 0 3 390151 
+69.171.235.113 0 1 161932 
+173.252.110.118 0 1 73157 
+173.252.80.115 0 1 243837 
+173.252.74.114 0 2 316994 
+173.252.79.112 0 2 601604 
+69.171.235.114 0 1 1582673 
+69.171.235.116 0 2 514317 
+173.252.88.155 0 3 206959 
+173.252.120.114 0 2 316994 
+66.220.156.119 0 1 936 
+173.252.79.118 0 1 243837 
+187.104.51.197 1 11 146113 20150429143943
+203.45.219.107 2 23 2689764 20150429112650
+220.181.38.164 0 1 161932 
+69.171.237.118 0 3 788476 
+69.171.237.115 0 4 804668 
+191.54.150.120 1 11 146114 20150429133006
+220.181.108.94 1 1 5685 20150421205650
+173.252.73.115 0 2 146314 
+173.252.79.116 0 3 788476 
+185.66.250.180 1 1 6200 20150429132502
+66.220.146.24 1 2 307027 20150429102105
+173.252.120.116 0 5 1219185 
+145.15.244.119 1 6 44166 20150409061142
+173.252.114.115 0 1 243837 
+69.171.230.112 0 1 300802 
+52.5.150.166 5 5 23545 20150406011951
+87.220.106.87 2 14 220994 20150429105002
+173.252.88.151 0 1 73157 
+92.64.65.139 4 13 153099 20150413084433
+173.252.88.148 0 2 247788 
+69.58.178.57 11 11 50475 20150420204040
+173.252.73.117 0 1 300802 
+107.155.70.205 1 3 15121 20150404063007
+66.220.152.116 0 1 300802 
+173.252.112.113 0 2 601604 
+69.171.235.118 0 1 284634 
+69.171.230.117 0 2 487674 
+66.220.146.25 1 1 6225 20150429102042
+66.220.158.113 0 2 146314 
+173.252.80.117 0 1 243837 
+5.165.249.56 1 6 43143 20150403205413
+79.144.190.250 5 16 149645 20150425171926
+94.254.132.28 1 1 6200 20150429122659
+173.252.73.112 0 1 161932 
+144.76.30.242 1 1 4709 20150403053211
+173.252.100.118 0 4 678712 
+66.220.158.115 0 3 617796 
+62.140.132.6 10 27 5422640 20150405101711
+173.252.77.113 0 1 300802 
+173.252.113.119 0 1 3951 
+31.13.100.114 0 2 247788 
+173.252.120.117 0 1 73157 
+52.4.235.226 7 7 32963 20150405032632
+173.252.100.112 0 2 601604 
+66.220.159.115 0 1 3951 
+173.252.112.119 0 1 73157 
+50.193.202.82 1 1 5628 20150408143239
+66.220.146.20 2 3 312745 20150429102049
+66.220.156.115 0 1 243837 
+66.220.156.113 0 1 243837 
+173.252.102.113 0 1 936 
+69.171.228.119 0 1 300802 
+173.252.74.115 0 3 219471 
+81.89.96.88 1 1 5693 20150427122033
+87.78.160.133 2 13 171043 20150429145120
+62.140.132.87 7 18 69479 20150411101407
+69.171.237.116 0 1 243837 
+173.252.120.119 0 3 390151 
+173.252.110.115 0 1 300802 
+173.252.88.218 0 1 447902 
+173.252.114.113 0 1 3951 
+173.252.88.181 9 33 3753846 20150410155159
+173.252.88.185 7 16 1469610 20150410150707
+66.220.158.117 0 2 544639 
+173.252.74.116 0 1 300802 
+173.252.88.150 0 6 318557 
+77.60.104.2 2 22 292248 20150429113905
+173.252.110.117 0 1 73157 
+173.252.105.117 0 1 3951 
+69.171.237.114 0 1 243837 
+173.252.122.123 0 1 936 
+173.252.100.113 0 1 300802 
+31.13.100.112 0 2 487674 
+179.249.0.24 1 8 66964 20150413173544
+62.72.192.76 12 14 52349 20150403094952
+173.252.88.149 0 3 491625 
+173.252.80.116 0 2 487674 
+173.252.120.115 0 3 219471 
+69.171.230.114 0 1 243837 
+158.169.150.6 1 11 146139 20150429103518
+144.64.88.15 5 34 5980168 20150429121232
+66.220.156.116 0 2 316994 
+220.181.38.215 0 1 148505 
+66.220.159.119 0 1 936 
+110.83.61.43 1 1 5685 20150423052319
+69.171.237.119 0 3 390151 
+173.252.73.114 0 2 359447 
+62.163.109.86 1 11 146113 20150429142625
+208.100.179.2 2 30 5876804 20150429105724
+173.252.122.117 0 1 3951 
+69.171.235.117 0 1 148505 
+177.34.171.205 5 23 311493 20150429110124
+173.252.88.186 9 24 2535093 20150410151516
+198.27.81.205 1 1 4709 20150402133928
+213.47.217.101 1 1 4709 20150404103749
+220.181.38.213 0 1 3951 
+173.252.88.154 0 2 77108 
+173.252.112.114 0 3 617796 
+187.20.108.161 1 6 44167 20150409222947
+173.252.88.219 0 1 199057 
+173.252.113.118 0 1 243837 
+173.252.113.114 0 1 199057 
+62.140.132.51 1 8 66964 20150413174429
+200.131.199.17 3 32 5884391 20150429112446
+66.220.146.27 1 3 608374 20150428183802
+179.104.181.237 2 19 213078 20150429121621
+69.171.235.119 0 2 647602 
+173.252.113.116 0 1 243837 
+66.220.158.114 0 2 316994 
+173.252.113.112 0 1 199057 
+62.140.132.196 1 9 42160 20150428041006
+123.125.68.11 0 1 252835 
+173.252.88.213 0 1 3951 
+66.220.159.114 0 2 487674 
+66.220.158.112 0 2 442894 
+173.252.114.117 0 1 243837 
+66.220.146.21 0 1 73157 
+173.252.73.116 0 1 300802 
+173.252.79.119 0 1 243837 
+81.69.252.193 4 23 5479778 20150408163340
+173.252.73.119 0 1 300802 
+173.252.74.113 0 2 544639 
+173.252.79.113 0 2 487674 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20150401 445 652 7604605 1
+20150402 976 1568 15413806 5
+20150403 161 195 3200871 9
+20150404 3 9 861398 3
+20150405 85 144 5728000 3
+20150406 29 54 5554446 6
+20150407 422 1253 13910200 16
+20150408 1173 2493 66817532 12
+20150409 116 329 65998005 17
+20150410 451 1267 90948313 19
+20150411 150 359 11910133 2
+20150412 44 79 600010 3
+20150413 675 1975 128386481 8
+20150414 526 1134 69362979 3
+20150415 446 626 10128977 3
+20150416 633 794 17120990 5
+20150417 132 231 12449507 5
+20150418 0 2 316994 0
+20150420 13 20 65796 3
+20150421 27 66 6645145 3
+20150422 29 225 50293738 5
+20150423 2 7 718515 2
+20150424 1 11 627960 1
+20150425 5 20 783633 1
+20150426 18 73 845433 2
+20150427 102 240 9234700 7
+20150428 155 491 1998946 7
+20150429 218 721 63045275 23
+20150430 55 140 9728496 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 29
+5mn-15mn 18
+30s-2mn 24
+0s-30s 72
+15mn-30mn 8
+2mn-5mn 15
+30mn-1h 14
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 80
+/languages.php 1039 7363188 13 19
+/index.php 855 4770975 12 28
+/languages/myhtml.php 472 909056 1 3
+/portfolio.php 387 3039852 7 16
+/ 332 1886133 133 80
+/languages/myjavascript.php 309 316447 0 2
+/raphshats/index.php 307 515133 0 1
+/languages/mycss.php 298 462597 0 1
+/raphie/ajaxcheckemail.php 260 6609 0 0
+/contact.php 236 1273816 4 7
+/raphie/somewhere.php 36 253579 0 0
+/letsexploreamsterdam/sights/sightspictures.html 1 8922 0 0
+/letsexploreamsterdam/sights/redlight.html 2 8108 0 0
+/letsexploreamsterdam/sights/canalbeltpt.html 1 5043 0 0
+/letsexploreamsterdam/sights/jordaanpt.php 1 4234 0 0
+/letsexploreamsterdam/tours.php 77 192766 0 0
+/raphshats/ 129 196151 0 1
+/letsexploreamsterdam/indexpt.php 17 75739 0 0
+/letsexploreamsterdam/sights/jordaan.php 2 8468 0 0
+/raphshats/product.php 29 47054 0 0
+/letsexploreamsterdam/contact.html 1 1257 0 0
+/raphie/user-register.php 125 619250 0 1
+/letsexploreamsterdam/tours.html 2 3394 0 0
+/letsexploreamsterdam/Tours/museumstour.html 1 1923 0 0
+/raphie/index.php 119 156100 0 1
+/raphie/raph.html 3 225 0 0
+/raphie/start-register.php 138 323777 1 0
+/footer.php 2 774 0 0
+/raphie/others.php 7 11656 0 0
+/raphie/homie.php 29 49683 0 0
+/letsexploreamsterdam/Tours/boattour.php 13 19826 0 0
+/raphshats/cart.php 53 97578 0 0
+/raphie/checklogin.php 4 5796 1 0
+/languages/myjquery.php 156 42693 0 0
+/letsexploreamsterdam/Tours/biketour.html 1 1952 0 0
+/raphshats/user-insert.php 2 2035 0 0
+/letsexploreamsterdam/contact.php 11 21788 0 0
+/letsexploreamsterdam/Tours/walkingtour.html 1 1962 0 0
+/letsexploreamsterdam/sights/sights.php 51 158205 0 0
+/raphie/chatajax.php 4 48 0 0
+/raphie/profile.php 54 96160 1 1
+/header.php 1 3356 1 0
+/raphshats/classic.php 17 37098 0 0
+/letsexploreamsterdam/Tours/museumstour.php 1 1110 0 0
+/raphshats/user-register.php 2 14545 0 0
+/languages/myajax.php 166 92179 0 3
+/letsexploreamsterdam/indexpt.html 1 4463 0 0
+/raphshats/prime.php 22 45571 0 0
+/languages/myphp.php 129 38798 0 0
+/letsexploreamsterdam/sights/canalbelt.html 5 18704 0 0
+/raphie/socialnetwork.php 43 176309 0 0
+/raphie/0206209399.html 52 9162 0 1
+/raphshats/user-logout.php 3 1297 0 0
+/login.php 221 880558 1 1
+/letsexploreamsterdam/sights/canalbelt.php 5 23380 0 0
+/raphshats/checklogin.php 2 2571 0 0
+/raphshats/user-login.php 19 43327 0 0
+/letsexploreamsterdam/Tours/walkingtour.php 2 5490 0 1
+/letsexploreamsterdam/sights/vondelpark.php 3 13992 0 0
+/letsexploreamsterdam/sights/canalbeltpt.php 1 5043 0 0
+/letsexploreamsterdam/sights/vondelparkpt.php 1 4686 0 0
+/letsexploreamsterdam/sights.php 66 223104 0 0
+/letsexploreamsterdam/Tours/biketour.php 3 6612 0 0
+/letsexploreamsterdam/Tours/boattour.html 1 1602 0 0
+/languages/myobjectivec.php 17 44744 0 2
+/letsexploreamsterdam/sights/museums.html 1 4395 0 0
+/languages/mylanguage.php 230 509602 0 1
+/raphie/data.php 26 504 0 1
+/raphie/ 43 52616 0 3
+/raphie/chatpost.php 1 2 0 0
+/letsexploreamsterdam/index.php 165 847056 2 0
+/letsexploreamsterdam/sightspictures.php 45 397775 2 3
+/letsexploreamsterdam/sights/sights.html 1 3896 0 0
+/letsexploreamsterdam/sights/redlight.php 2 8108 0 0
+/languages/mysql.php 141 39982 1 2
+/letsexploreamsterdam/sights/sightspictures.php 16 127362 0 0
+/letsexploreamsterdam/ 43 215544 0 0
+/letsexploreamsterdam/sights/vondelpark.html 1 4664 0 1
+/raphie/chat.php 4 17656 0 0
+/raphshats/bridal.php 23 51212 0 0
+END_SIDER

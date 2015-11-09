@@ -1,0 +1,188 @@
+<!doctype html>
+
+<html>
+
+	<head>
+		<title>Let's Explore Amsterdam</title>
+
+		<meta charset="utf-8">
+
+		<link rel="stylesheet" type="text/css" href="../mystyle.css">
+	</head>
+
+
+	<body id="htmlsource">
+
+<div id='topnav'>
+<div id='logo'>
+<a href='../index.html'><img class='logo' src="../pictures/logologo.jpg"></a>
+</div>
+<div id='topnavTut' class='notranslate'>
+<a class='topnav' target='_top' href='../index.html'>HOME</a>
+<a class='topnav' target='_top' href='../sights/redlight.html'>SIGHTS</a>
+<a class='topnav' target='_top' href='../sights/sightspictures.html'>PICTURES</a>
+<a class='topnav' target='_top' href='../tours.html'>TOURS</a>
+
+<div style='float:right;word-spacing:0;'>
+
+<a class='topnav' target='_top' href='../contact.html'>CONTACT</a>
+<span style='letter-spacing:14px;'> |</span>
+<a class='topnav' target='_top' href='../sights/jordaanpt.html' lang="pt" hreflang="pt" title="Portugu&ecirc;s"><img src="../pictures/pt.jpg"></a>
+
+</div>
+</div>
+</div>
+
+<br>
+<br>
+
+<div class="questions">
+
+<h4>Tell us about yourself so we can find the best things for you to do in Amsterdam.</h4>
+
+
+
+<p>Are you a boy or a girl?</p>
+<form>
+	<select id="sex">
+	<option></option>
+	<option>male</option>
+	<option>female</option>
+	</select>
+</form>
+
+<br>
+
+<p>What is your sexual orientation?
+<form>
+ 	<select id="sexorientation">
+	<option></option>
+	<option>straight</option>
+	<option>bi</option>
+	<option>gay</option>
+	</select>
+</form>
+
+<br>
+
+
+<p>Solo, couple or group?</p>
+<form>
+  <select id="alone">
+	<option></option>
+	<option>solo</option>
+	<option>couple</option>
+	<option>group</option>
+  </select>
+</form>
+
+<br>
+
+
+<p> Party Oriented or quite?</p>
+<form>
+  <select id="eventorientation">
+	<option></option>
+    <option>quite</option>
+    <option>party oriented</option>
+  </select>
+</form>
+
+<br>
+
+<button onclick="myFunction()">Get Result</button>
+
+</div>
+
+<br>
+<br>
+<br>
+
+<div id="answer"></div>
+
+
+<script>
+
+function myFunction() {
+
+var bob = ["male", "straight", "solo", "party oriented"];
+
+var bobm = ["male", "straight", "solo", "quite"];
+
+var bobs = ["male", "straight", "group", "party oriented"];
+
+var bobsm = ["male", "straight", "group", "quite"];
+
+var mike = ["male", "gay", "solo", "party oriented"]; 
+
+var mikem = ["male", "gay", "solo", "quite"];
+
+var mikes = ["male", "gay", "group", "party Oriented"]; 
+
+var mikesm = ["male", "gay", "group", "quite"];
+
+var mary = ["female", "straight", "solo", "party oriented"];
+
+var marym = ["female", "straight", "solo", "quite"];
+
+var maries = ["female", "straight", "group", "party oriented"];
+
+var mariesm = ["female", "straight", "group", "quite"];
+
+var kate = ["female", "gay", "solo", "party oriented"];
+
+var katem = ["female", "gay", "solo", "quite"];
+
+var katies = ["female", "gay", "group", "party oriented"];
+
+var katism = ["female", "gay", "group", "quite"];
+
+
+	var a = document.getElementById("sex");
+    	var b = a.selectedIndex;
+
+	var c = document.getElementById("sexorientation");
+    	var d = c.selectedIndex;
+
+	var e = document.getElementById("alone");
+    	var f = e.selectedIndex;
+
+	var g = document.getElementById("eventorientation");
+    	var h = g.selectedIndex;
+
+	var x = a.options[b].text + "," + c.options[d].text + "," + e.options[f].text + "," + g.options[h].text;
+	
+	var greeting;
+
+	if (x == bob) {
+		greeting = "The party-oriented straight guy running solo.";
+	}
+
+	else if (x == bobm) {
+		greeting = "The quite straight guy running solo.";
+	}
+
+	else if (x == bobs) {
+		greeting = "The party-oriented straight guy with a group.";
+	}
+
+	else if (x == bobsm) {
+		greeting = "The quite straight guy with a group.";
+	}
+	
+	else if (x == mikem) {
+		greeting = "The quite gay.";
+	}
+
+	else {
+		greeting = "Just enjoy the city, get lost in the canals and have fun!";
+	}
+
+
+	document.getElementById("answer").innerHTML = greeting;
+}
+
+
+</script>
+
+</body>

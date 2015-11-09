@@ -1,0 +1,588 @@
+AWSTATS DATA FILE 6.7 (build 1.892)
+# If you remove this file, all statistics for date 201508 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2542                
+POS_VISITOR 10334               
+POS_DAY 14731               
+POS_DOMAIN 3386                
+POS_LOGIN 3620                
+POS_ROBOT 3775                
+POS_WORMS 4227                
+POS_EMAILSENDER 4358                
+POS_EMAILRECEIVER 4501                
+POS_SESSION 15556               
+POS_SIDER 15764               
+POS_FILETYPES 4636                
+POS_OS 4872                
+POS_BROWSER 4994                
+POS_SCREENSIZE 5228                
+POS_UNKNOWNREFERER 5302                
+POS_UNKNOWNREFERERBROWSER 5776                
+POS_ORIGIN 6245                
+POS_SEREFERRALS 6385                
+POS_PAGEREFS 6540                
+POS_SEARCHWORDS 6895                
+POS_KEYWORDS 7047                
+POS_MISC 2206                
+POS_ERRORS 7106                
+POS_CLUSTER 3476                
+POS_SIDER_404 7264                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150831214205 80 18076 9770471822433
+FirstTime 20150801001434
+LastTime 20150831134435
+LastUpdate 20150901021401 80 0 80 0 0
+TotalVisits 104                 
+TotalUnique 51                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 138                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 9479 78 81 216563
+1 96 296 40875427 39 89 3453227
+2 14 97 12954594 11 24 89805
+3 16 46 2272823 14 22 57700
+4 28 136 23658024 25 31 117782
+5 119 240 24346194 36 48 450861
+6 124 222 7535354 36 51 351516
+7 154 224 1812660 38 40 81767
+8 222 395 16860713 571 582 1892722
+9 184 290 9671080 54 65 375735
+10 26 89 7663068 21 35 170173
+11 126 204 2817120 68 72 152267
+12 155 236 3361643 84 92 196704
+13 258 349 4369005 46 54 165633
+14 26 73 2001469 23 36 150660
+15 260 413 6544464 116 122 242816
+16 217 256 6081905 32 43 251881
+17 10 31 482812 23 31 103612
+18 19 76 15132734 13 16 52793
+19 1 1 9632 20 26 146893
+20 1 18 894531 117 124 311174
+21 3 5 345431 27 39 196839
+22 2 9 958702 7 7 25836
+23 0 2 316994 57 63 144457
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 2062 3709 190975858
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+googlebot 131 1364108 20150831214205 0
+crawl 98 371016 20150825022646 0
+baiduspider 80 700920 20150831205941 0
+linkwalker 64 198850 20150803201747 0
+\wbot[\/\-] 51 298006 20150830231631 0
+yandex 45 153261 20150826193608 0
+slurp 17 64854 20150827194843 0
+surveybot 2 19111 20150825135850 0
+wordpress 2 0 20150831103131 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 182 571790 0 0
+png 216 2354699 0 0
+jsp 5 1494 0 0
+war 3 1860573 0 0
+php 1401 4316694 0 0
+html 648 1279440 0 0
+tif 5 557535 0 0
+jpg 1093 178502383 0 0
+js 154 1530865 0 0
+gif 2 385 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+linuxsuse 1
+macosx 2872
+winxp 30
+winlong 1
+unix 67
+winnt 279
+Unknown 107
+linux 352
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 13
+firefox6.0.2 16
+firefox40.0 30
+firefox39.0 17
+mozilla 22
+firefox14.0.1 10
+firefox3.0 1
+firefox3.6.3 1
+firefox38.0 1
+firefox30.0 1
+firefox7.0.1 1
+Unknown 107
+firefox11.0 1
+safari 3501
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+- 20150810040429
+visionutils/0.2 20150811064459
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150831153510
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20150821015559
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20150820115756
+BPImageWalker/2.0_(www.bdbrandprotect.com) 20150804160137
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+- 20150810040429
+visionutils/0.2 20150811064459
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150831153510
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20150821015559
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20150820115756
+BPImageWalker/2.0_(www.bdbrandprotect.com) 20150804160137
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 173 282
+From1 0 1
+From2 3 9
+From3 8 8
+From4 1878 3409
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 3 9
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://pizza-tycoon.com 1 1
+http://hvd-store.com 1 1
+http://t.co/cCFTHBJKq5 1 1
+http://m.facebook.com 1 1
+http://burger-imperia.com 1 1
+https://www.linkedin.com 1 1
+http://hundejo.com 1 1
+http://lnkd.in 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 16 10560
+302 796 2096690
+206 61 3892059
+500 6 4236
+301 53 12995
+404 371 212750
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 70
+/robots.txt 108 -
+/letsexploreamsterdam/sights/sightspictures.html 2 -
+/letsexploreamsterdam/sights/redlight.html 5 -
+/letsexploreamsterdam/letsexploreamsterdam/index.php 2 -
+/letsexploreamsterdam/sights/canalbeltpt.html 3 -
+/testjsp 1 -
+/indexpt.html 5 -
+/socialnetwork.php 1 -
+/css/images/stripes.jpg 86 http://www.raph-web.com/
+/letsexploreamsterdam/tours.html 5 -
+/raphie/index.php 1 -
+/letsexploreamsterdam/letsexploreamsterdam/contact.php 2 -
+/socialnetwork/pox/index.php 1 -
+/sights/sightspt.html 5 -
+/letsexploreamsterdam/sights/flowermarketpt.html 2 -
+/raphie/start-register.php 2 -
+/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/letsexploreamsterdam/sights/flowermarket.html 2 -
+/letsexploreamsterdam/letsexploreamsterdam/js/jquery.min.js 1 -
+/myproject/My+Project.jsp 1 -
+/socialnetwork/listing.php 1 -
+/letsexploreamsterdam/sights/jordaan.html 5 -
+/myproject/My%20Project.jsp 1 -
+/rss/socialnetwork 1 -
+/letsexploreamsterdam/index.html 5 -
+/contact.html 6 -
+/testJSP/WebContent 1 -
+/go 4 -
+/letsexploreamsterdam/indexpt.html 4 -
+/letsexploreamsterdam/sights/redlightpt.html 4 -
+/letsexploreamsterdam/letsexploreamsterdam/sightspictures.php 2 -
+/wp-login.php 1 RAPH-WEB.COM
+/letsexploreamsterdam/sights/canalbelt.html 5 -
+/letsexploreamsterdam/letsexploreamsterdam/sights.php 2 -
+/socialnetwork/private/listing 1 -
+/letsexploreamsterdam/letsexploreamsterdam/js/app.js 1 -
+/static/js/jquery.cycle.all.2.74.js 1 http://www.raph-web.com/letsexploreamsterdam/indexpt.php
+/tours.html 5 -
+/testJSP/src 1 -
+/socialnetwork/alluser.php 1 -
+/pox/socialnetwork 1 -
+/index.html 4 -
+/letsexploreamsterdam/letsexploreamsterdam/tours.php 2 -
+/redirect.php 4 -
+/away 2 -
+/socialnetwork/myprofile.php 1 -
+/letsexploreamsterdam/letsexploreamsterdam/js/myQuiz.js 1 -
+/letsexploreamsterdam/sights/museums.html 5 -
+/socialnetwork/socialnetwork.php 11 http://raph-web.com/socialnetwork/editimage.php
+/sights/sightspictures.html 5 -
+/letsexploreamsterdam/Tours/indexpt.php 5 -
+/static/js/jquery.min.js 1 http://www.raph-web.com/letsexploreamsterdam/indexpt.php
+/static/js/window-open.js 3 -
+/letsexploreamsterdam/sights/sightspt.html 4 -
+/letsexploreamsterdam/sights/vondelparkpt.html 5 -
+/socialnwtwork 1 -
+/testJSP/Hello%20World.jsp 1 -
+/letsexploreamsterdam/letsexploreamsterdam/js/window-open.js 1 -
+/TestJSP/Hello+World.jsp 1 -
+/letsexploreamsterdam/sights/sights.html 5 -
+/pox/socialnetwork/index.php 1 -
+/letsexploreamsterdam/sights/jordaanpt.html 3 -
+/languages/images/profile.jpg 1 -
+/letsexploreamsterdam/letsexploreamsterdam/js/jquery.cycle.all.2.74.js 1 -
+/letsexploreamsterdam/sights/vondelpark.html 3 -
+/sights/sights.html 3 -
+/away.php 2 -
+/go.php 4 -
+/socialnetwork/private/listing.pho 1 -
+/myproject/WebContent/WEB-INF/My%20Project.jsp 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 138
+92.109.163.112 1264 2427 145470524 20150831065818
+212.64.70.121 469 588 4047889 20150824193229
+92.254.55.199 117 142 1126361 20150806140000
+188.207.86.231 111 126 854875 20150806135918
+62.140.132.29 18 31 759774 20150802143222
+69.58.178.59 11 11 63383 20150820115800
+92.111.144.76 11 63 7230509 20150828084535
+84.241.211.84 6 44 6059411 20150830104223
+62.140.137.58 4 34 5972990 20150820051957
+77.250.200.225 4 4 38528 20150822170901
+69.171.228.118 0 2 27162 
+216.81.48.170 0 1 37971 
+54.255.216.26 1 1 9632 20150814130619
+66.220.146.28 0 1 300802 
+158.106.67.178 0 1 11449 
+173.252.73.113 0 1 73157 
+189.28.144.52 1 1 9632 20150823123548
+158.106.67.139 0 1 18384 
+173.252.122.121 1 1 111507 20150811064504
+37.139.140.6 2 16 262361 20150831134435
+188.40.123.141 1 1 9479 20150802104959
+173.252.112.112 0 1 300802 
+66.220.146.23 0 1 243837 
+158.106.67.199 0 1 273587 
+158.106.67.196 0 1 14955 
+173.252.73.118 0 1 73157 
+158.106.67.192 0 1 284634 
+54.215.68.113 1 1 9632 20150830121114
+54.196.80.227 1 1 9479 20150808210116
+173.252.120.113 0 1 73157 
+116.106.189.52 0 1 0 
+158.106.67.143 0 1 32234 
+81.148.165.86 1 13 187386 20150821134507
+173.252.90.124 0 1 243837 
+173.252.110.119 0 1 243837 
+66.220.156.117 1 1 111507 20150811064452
+66.220.146.26 0 1 243837 
+149.91.83.223 1 1 9479 20150810060113
+158.106.67.137 0 1 936 
+158.106.67.148 0 1 4354 
+173.252.90.104 0 1 73157 
+173.252.88.86 0 1 243837 
+66.220.158.119 0 1 300802 
+220.181.108.83 1 1 9632 20150830021456
+81.171.59.206 3 17 271993 20150821172007
+173.252.110.114 0 1 300802 
+173.252.112.118 0 5 707145 
+111.206.36.11 0 1 14955 
+202.46.53.141 1 1 9479 20150804211258
+54.147.246.187 1 1 9632 20150824124247
+158.106.67.163 0 2 218979 
+112.20.190.34 2 2 18958 20150809054347
+173.252.120.114 0 2 316994 
+66.220.156.119 0 1 243837 
+84.228.192.232 0 1 37971 
+202.46.51.37 1 1 286 20150824221259
+202.46.53.111 0 1 6942 
+37.130.227.133 1 1 9632 20150823034007
+202.46.52.165 1 1 9479 20150810043249
+173.252.120.116 0 4 292628 
+69.171.230.112 0 1 73157 
+173.252.90.121 0 1 300802 
+173.252.88.187 0 1 243837 
+122.161.165.251 0 1 37971 
+69.171.228.116 0 2 4126 
+158.106.67.188 0 2 42608 
+66.220.156.111 0 1 243837 
+202.46.52.203 1 1 9479 20150805155406
+69.171.230.117 0 1 73157 
+173.252.90.96 0 1 73157 
+66.220.146.25 0 1 243837 
+173.252.74.118 0 1 243837 
+158.106.67.184 0 1 1084412 
+158.106.67.177 0 3 574492 
+66.220.158.115 0 2 487674 
+62.132.60.170 2 16 262361 20150825064907
+158.106.67.173 0 1 56438 
+158.106.67.182 0 1 8535 
+173.252.79.115 0 1 14955 
+173.252.120.117 0 1 73157 
+173.252.112.119 0 1 73157 
+158.106.67.190 0 1 238287 
+66.220.156.115 1 1 111507 20150811064456
+188.138.9.49 1 1 9479 20150810161632
+66.220.156.113 0 1 243837 
+37.48.83.155 1 1 0 20150810040429
+69.171.228.119 1 1 111507 20150811064454
+84.241.210.136 1 13 187233 20150812140435
+173.252.120.119 0 1 243837 
+173.252.88.181 0 1 300802 
+173.252.88.191 1 1 9479 20150811064450
+220.181.108.178 1 1 9632 20150815050915
+158.106.67.176 0 1 10277 
+66.220.158.117 0 2 316994 
+173.252.88.185 0 2 601604 
+202.46.57.38 0 1 23135 
+39.32.162.247 0 1 32234 
+202.46.52.157 1 1 9479 20150801001434
+188.71.200.154 1 13 187386 20150830121114
+202.46.53.147 1 1 9632 20150822021503
+158.106.67.187 0 1 13612 
+202.46.49.201 1 1 9632 20150826034253
+202.46.51.154 1 1 9479 20150809030456
+158.106.67.195 0 2 700737 
+173.252.112.116 0 3 219471 
+202.46.56.19 0 1 7052 
+173.252.120.115 0 1 73157 
+123.125.71.115 1 1 9632 20150815050225
+158.106.67.160 0 2 535947 
+66.220.156.118 0 1 300802 
+202.46.56.206 1 1 9632 20150821064013
+158.106.67.144 0 1 3190 
+158.106.67.130 0 1 148505 
+173.252.88.186 1 1 111507 20150811064452
+158.106.67.141 0 1 188159 
+202.46.57.166 1 1 9632 20150828154758
+66.220.146.29 0 1 243837 
+158.106.67.133 0 1 88207 
+158.106.67.200 0 1 1582673 
+173.252.112.114 0 1 73157 
+66.220.145.152 0 1 14955 
+173.252.112.106 0 1 73157 
+158.106.67.181 0 1 113618 
+69.171.228.121 0 1 4637 
+62.140.132.224 2 7 51531 20150802175758
+202.46.51.25 1 1 9632 20150824220822
+158.106.67.183 0 1 1802 
+177.206.219.97 0 1 37971 
+66.220.146.27 0 2 544639 
+62.140.132.73 1 1 9479 20150806135459
+173.252.120.123 0 1 73157 
+66.220.158.114 0 1 243837 
+158.106.67.157 0 1 22808 
+192.104.24.222 0 1 37971 
+178.16.208.56 1 1 9479 20150811210712
+202.46.53.190 1 1 9632 20150813174627
+66.220.158.112 0 1 243837 
+173.252.73.116 0 1 300802 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20150801 28 50 1456606 3
+20150802 31 65 1789261 5
+20150803 48 64 1912014 4
+20150804 2 39 6604587 2
+20150805 654 902 22873217 5
+20150806 231 280 3255850 5
+20150807 0 4 712732 0
+20150808 1 4 627275 1
+20150809 4 11 646972 4
+20150810 13 51 6393731 5
+20150811 15 49 1370008 9
+20150812 23 46 825802 3
+20150813 12 113 7009444 3
+20150814 8 10 968296 2
+20150815 468 591 4186604 5
+20150816 216 347 5045808 3
+20150817 21 31 957815 1
+20150818 3 20 1084475 1
+20150819 14 38 6152146 3
+20150820 16 59 6255993 3
+20150821 10 45 1138563 5
+20150822 6 20 381860 3
+20150823 2 4 336258 2
+20150824 24 93 15112407 6
+20150825 43 179 24882378 5
+20150826 107 357 46876583 3
+20150827 19 33 980780 2
+20150828 11 51 7052755 2
+20150829 6 30 676895 1
+20150830 9 59 6266061 4
+20150831 17 64 7142682 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 5
+5mn-15mn 11
+30s-2mn 3
+15mn-30mn 6
+0s-30s 61
+2mn-5mn 8
+30mn-1h 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 63
+/socialnetwork/allusers.php 290 717404 0 3
+/socialnetwork/my_profile.php 289 1413966 4 3
+/socialnetwork/Iris32.html 168 45080 0 0
+/socialnetwork/data.php 149 1639 1 4
+/socialnetwork/Kobile2.html 145 67665 0 0
+/socialnetwork/Soncnica_90.html 137 20006 0 0
+/ 110 1026377 68 48
+/socialnetwork/index.php 108 349632 12 11
+/socialnetwork/ajaxcheckemail.php 55 1230 0 0
+/socialnetwork/editusername.php 51 134961 0 0
+/languages/myjavascript.php 3 8322 0 1
+/raphshats/index.php 2 3650 0 0
+/socialnetwork/checklogin.php 8 15830 0 0
+/socialnetwork/start-register.php 41 118923 0 1
+/socialnetwork/chatpostadmin.php 8 16 0 0
+/socialnetwork/my_photo_album.php 15 36846 0 0
+/raphshats/ 2 3650 0 0
+/languages.php 17 118988 0 0
+/socialnetwork/chatadmin.php 48 135917 0 1
+/using_drivers.war 2 1853746 0 1
+/languages/mycss.php 3 8118 0 0
+/socialnetwork/others.php 39 77300 0 2
+/login.php 2 8816 0 0
+/raphshats/user-login.php 2 4544 0 0
+/letsexploreamsterdam/sights/jordaan.php 1 4234 0 0
+/raphshats/product.php 1 1804 0 0
+/TestJSP/Hello%20World.jsp 2 748 1 1
+/socialnetwork/chat.php 8 40060 1 0
+/portfolio.php 32 239382 1 1
+/letsexploreamsterdam/sights.php 2 8442 0 0
+/raphshats/cart.php 2 2654 0 0
+/socialnetwork/chatajaxadmin.php 15 196 0 0
+/socialnetwork/user-register.php 31 152328 0 0
+/socialnetwork/private/listing.php 6 12048 0 1
+/languages/mylanguage.php 3 6729 0 0
+/hello1.war 1 6827 0 1
+/socialnetwork/chatajax.php 8 103 0 0
+/languages/myjquery.php 1 272 0 0
+/socialnetwork/photo_upload.php 3 6651 0 0
+/java.jsp 1 374 0 0
+/socialnetwork/Steefie88.html 47 9042 0 0
+/socialnetwork/photo.php 5 15871 0 0
+/socialnetwork/editimage.php 20 43090 0 0
+/letsexploreamsterdam/contact.php 2 4838 0 0
+/socialnetwork/somewhere.php 19 147311 0 0
+/socialnetwork/others_photo_album.php 7 14015 0 0
+/contact.php 16 76320 1 5
+/languages/myhtml.php 4 12432 0 0
+/letsexploreamsterdam/index.php 1 5184 0 0
+/letsexploreamsterdam/sights/redlight.php 2 8108 0 0
+/letsexploreamsterdam/sightspictures.php 2 18418 0 0
+/languages/mysql.php 4 1144 1 1
+/raphshats/user-register.php 1 7287 0 0
+/languages/myajax.php 2 1126 0 0
+/letsexploreamsterdam/ 2 10368 0 0
+/index.php 25 240341 0 8
+/raphshats/prime.php 2 4558 0 0
+/socialnetwork/profile.php 37 85012 0 0
+/languages/myphp.php 2 620 0 0
+/socialnetwork/ 37 97252 9 6
+/images/socialmedia.tif 5 557535 5 5
+/socialnetwork/chatpost.php 7 14 0 0
+/myproject/WebContent/My%20Project.jsp 2 372 0 0
+END_SIDER

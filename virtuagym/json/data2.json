@@ -1,0 +1,11 @@
+dataHandler({
+ 	"name"		:	"Raphael Rodrigues",
+	"title"		:	"The best programmer in the world",
+	"links"		:	[
+
+	{ "blog"	:	"http://braziliantraveler.tumblr.com" },
+	{ "facebook"	:	"http://braziliantraveler.tumblr.com" },
+	{ "linkedin"	: "http://linkedin.com"}
+
+	]
+});

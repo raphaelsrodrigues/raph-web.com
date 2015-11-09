@@ -1,0 +1,132 @@
+<!doctype html>
+
+<html>
+
+	<head>
+		<title>Let's Explore Amsterdam</title>
+
+		<meta charset="utf-8">
+
+		<link rel="stylesheet" type="text/css" href="../mystyle.css">
+	</head>
+
+
+	<body id="htmlsource">
+
+<div id='topnav'>
+<div id='logo'>
+<a href='../index.html'><img class='logo' src="../pictures/logologo.jpg"></a>
+</div>
+<div id='topnavTut' class='notranslate'>
+<a class='topnav' target='_top' href='../index.html'>HOME</a>
+<a class='topnav' target='_top' href='../sights/redlight.html'>SIGHTS</a>
+<a class='topnav' target='_top' href='../sights/sightspictures.html'>PICTURES</a>
+<a class='topnav' target='_top' href='../tours.html'>TOURS</a>
+
+<div style='float:right;word-spacing:0;'>
+
+<a class='topnav' target='_top' href='../contact.html'>CONTACT</a>
+<span style='letter-spacing:14px;'> |</span>
+<a class='topnav' target='_top' href='../sights/jordaanpt.html' lang="pt" hreflang="pt" title="Portugu&ecirc;s"><img src="../pictures/pt.jpg"></a>
+
+</div>
+</div>
+</div>
+
+<br>
+<br>
+
+
+
+
+<form>
+  <select id="sex">
+    <option>male</option>
+    <option>female</option>
+  </select>
+</form>
+
+
+
+<form>
+  <select id="sexorientation">
+    <option>straight</option>
+    <option>gay</option>
+  </select>
+</form>
+
+
+<form>
+  <select id="alone">
+    <option>alone</option>
+    <option>group</option>
+  </select>
+</form>
+
+
+<form>
+  <select id="eventorientation">
+    <option>quite</option>
+    <option>party oriented</option>
+  </select>
+</form>
+
+
+
+<button onclick="myFunction()">Get Result</button>
+
+
+<script>
+
+function tourist(sex, sexorientation, alone, eventorientation) {
+
+this.sex = sex;
+this.sexo = sexorientation;
+this.alone = alone;
+this.eventorientation = eventorientation;
+
+}
+
+var bob = new tourist("male", "straight", "alone", "party oriented")
+
+var bobm = new tourist("male", "straight", "alone", "quite")
+
+var bobs = new tourist ("male", "straight", "group", "party oriented")
+
+var bobsm = new tourist ("male", "straight", "group", "quite")
+
+var mike = new tourist ("male", "gay", "alone", "party oriented") 
+
+var mikem = new tourist ("male", "gay", "alone", "quite")
+
+var mikes = new tourist ("male", "gay", "group", "party Oriented") 
+
+var mikesm = new tourist ("male", "gay", "group", "quite")
+
+var mary = new tourist ("female", "straight", "alone", "party oriented")
+
+var marym = new tourist ("female", "straight", "alone", "quite")
+
+var maries = new tourist ("female", "straight", "group", "party oriented")
+
+var mariesm = new tourist ("female", "straight", "group", "quite")
+
+var kate = new tourist ("female", "gay", "alone", "party oriented")
+
+var katem = new tourist ("female", "gay", "alone", "quite")
+
+var katies = new tourist ("female", "gay", "group", "party oriented")
+
+var katism = new tourist ("female", "gay", "group", "quite")
+
+function myFunction() {
+
+    var x = document.getElementById("mySelect").options.item(0).text;
+
+    document.getElementById("demo").innerHTML = x;
+}
+
+
+</script>
+
+</body>

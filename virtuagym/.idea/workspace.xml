@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5034473-4ad7-473a-b0b6-49e45905a530" name="Default" comment="" />
+    <ignored path="htdocs.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="userplan.php" pinned="true" current-in-tab="false">
+              <entry file="REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/userplan.php">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="3.8">
+                    <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                    <folding>
+                      <marker date="0" expanded="true" signature="527:562" placeholder="SELECT * FRO..plan..." />
+                      <marker date="0" expanded="true" signature="777:966" placeholder="..." />
+                      <marker date="0" expanded="false" signature="799:818" placeholder="..." />
+                      <marker date="0" expanded="true" signature="1131:1176" placeholder="SELECT * FRO..plan_days..." />
+                      <marker date="0" expanded="true" signature="1643:1662" placeholder="..." />
+                      <marker date="0" expanded="true" signature="1924:1943" placeholder="..." />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="index.php" pinned="true" current-in-tab="true">
+              <entry file="REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/otherfiles/index.php">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="0.47231638">
+                    <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+                    <folding>
+                      <marker date="0" expanded="true" signature="1745:1785" placeholder="SELECT COUNT..plan..." />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="htdocs" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="addplan.php" pinned="true" current-in-tab="true">
+        <entry file="REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/addplan.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.578354">
+              <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+              <folding>
+                <marker date="0" expanded="true" signature="771:897" placeholder="INSERT INTO ..." />
+                <marker date="0" expanded="true" signature="1228:1350" placeholder="..." />
+                <marker date="0" expanded="true" signature="1258:1350" placeholder="..." />
+                <marker date="0" expanded="true" signature="1467:2664" placeholder="..." />
+                <marker date="0" expanded="true" signature="1510:2612" placeholder="..." />
+                <marker date="0" expanded="true" signature="1553:2596" placeholder="..." />
+                <marker date="0" expanded="true" signature="1567:1669" placeholder="..." />
+                <marker date="0" expanded="true" signature="1683:1821" placeholder="..." />
+                <marker date="0" expanded="true" signature="1835:2328" placeholder="..." />
+                <marker date="0" expanded="true" signature="1861:1878" placeholder="..." />
+                <marker date="0" expanded="true" signature="1879:2314" placeholder="..." />
+                <marker date="0" expanded="true" signature="2348:2481" placeholder="..." />
+                <marker date="0" expanded="true" signature="2508:2526" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buildplan.php" pinned="true" current-in-tab="false">
+        <entry file="REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/buildplan.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.092308">
+              <caret line="117" column="124" selection-start-line="117" selection-start-column="124" selection-end-line="117" selection-end-column="124" />
+              <folding>
+                <element signature="e#1945#1970#0#HTML" expanded="true" />
+                <element signature="e#2850#2876#0#HTML" expanded="true" />
+                <element signature="e#3059#3086#0#HTML" expanded="true" />
+                <marker date="0" expanded="true" signature="618:656" placeholder="SELECT * FRO..plan..." />
+                <marker date="0" expanded="true" signature="811:1025" placeholder="..." />
+                <marker date="0" expanded="true" signature="833:852" placeholder="..." />
+                <marker date="0" expanded="true" signature="1091:1139" placeholder="SELECT * FRO..plan_days..." />
+                <marker date="0" expanded="true" signature="1342:1361" placeholder="..." />
+                <marker date="0" expanded="true" signature="1502:1527" placeholder="..." />
+                <marker date="0" expanded="true" signature="1748:1794" placeholder="..." />
+                <marker date="0" expanded="true" signature="1910:1950" placeholder="..." />
+                <marker date="0" expanded="true" signature="2652:2694" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buildday.php" pinned="true" current-in-tab="false">
+        <entry file="REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/buildday.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.8461537">
+              <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+              <folding>
+                <marker date="0" expanded="true" signature="693:781" placeholder="INSERT INTO ..." />
+                <marker date="0" expanded="true" signature="1831:1846" placeholder="..." />
+                <marker date="0" expanded="true" signature="1931:1946" placeholder="..." />
+                <marker date="0" expanded="true" signature="1959:1992" placeholder="..." />
+                <marker date="0" expanded="true" signature="2852:3054" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/database.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/scripts/script.js" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/createday.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/plandays.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/exercise.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/exercise_instances.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/plan.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/plandetail.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/header.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/user.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/tables.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/otherfiles/index.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/index.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/userplan.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/yourplans.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/css/mystyle.css" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/footer.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/buildday.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/buildplan.php" />
+        <option value="&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/addplan.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="883" />
+    <option name="y" value="23" />
+    <option name="width" value="1063" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5034473-4ad7-473a-b0b6-49e45905a530" name="Default" comment="" />
+      <created>1441174751637</created>
+      <option name="number" value="Default" />
+      <updated>1441174751637</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="883" y="23" width="1063" height="1053" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924336" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924336" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286385" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18438382" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924336" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924336" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286385" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1919192" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924336" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924336" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973205" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/database.php</url>
+          <line>2</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/database.php</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/database.php</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/plan.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/exercise_instances.php</url>
+          <line>48</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/exercise_instances.php</url>
+          <line>92</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/exercise_instances.php</url>
+          <line>113</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/exercise_instances.php</url>
+          <line>44</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/plandays.php</url>
+          <line>35</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/exercise_instances.php</url>
+          <line>47</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/exercise_instances.php</url>
+          <line>36</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/buildday.php</url>
+          <line>1</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/buildday.php</url>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/plan.php</url>
+          <line>23</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/plan.php</url>
+          <line>25</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/includes/plan.php</url>
+          <line>148</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/userplan.php</url>
+          <line>44</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/buildplan.php</url>
+          <line>28</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/index.php</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/index.php</url>
+          <line>25</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;2bea3967-c3bc-4111-85d2-e8beb5afb991&gt;/Applications/MAMP/htdocs/index.php</url>
+          <line>3</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

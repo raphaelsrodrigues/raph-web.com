@@ -1,0 +1,160 @@
+a:link {
+    text-decoration: none;
+    color: #19356C;
+}
+
+a:visited {
+   text-decoration: none;
+    color: #19356C;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+h4 {
+	font-family: Arial;
+}
+
+body {
+     /* background-image: url("../images/rodriguitacover.png");*/
+    background-color: #ffffff;}
+
+.login_main {
+padding: 30px;
+margin: 20px 370px 20px 370px;
+background: #d8d8d8;
+border-radius: 6px;
+text-align: center;
+line-height: 200%;}
+
+
+.row_user_auth{
+	padding: 15px;
+margin: 18px;
+margin-left: -9px;
+margin-right: -9px;
+background: #d8d8d8;}
+	
+	.mainproducts {
+	background-color: #d8d8d8;
+	border-radius: 10px;
+	height:300px;
+	width:810px;
+	padding:5px 5px 5px 40px;
+	margin-top: 45px;
+	margin-left: auto;
+	margin-right: auto;}
+	
+	.product1 {
+	float:left;
+	display:block;
+	position: relative;
+	height:280px;
+	width:205px;
+	margin-left: auto;
+	margin-right: auto;}
+
+	.product2 {
+	padding-left:80px;
+	float:left;
+	display:block;
+	position: relative;
+	height:280px;
+	width:205px;
+	margin-left: auto;
+	margin-right: auto;}
+	
+.inventory{
+	background-color: #d8d8d8;
+	border-radius: 10px;
+	height:500px;
+	width:700px;
+	margin-left: auto;
+	margin-right: auto;}
+	
+.lista1 {
+	height:250px;
+	width:630px;
+	margin-left: auto;
+	margin-right: auto;}
+	
+.lista2 {
+	position: relative;
+	height:250px;
+	width:630px;
+	margin-left: auto;
+	margin-right: auto;}
+	
+.item1{
+	float:left;
+	display:block;
+	position: relative;
+	height:215px;
+	width:155px;
+	margin-left: auto;
+	margin-right: auto;}
+	
+.item2{
+	padding-left:80px;
+	float:left;
+	display:block;
+	position: relative;
+	height:215px;
+	width:155px;
+	margin-left: auto;
+	margin-right: auto;}
+	
+.showproduct{
+	background-color: #d8d8d8;
+	border-radius: 10px;
+	height:226px;
+	width:430px;
+	margin-left: auto;
+	margin-right: auto;}
+	
+.showimage{
+	float:left;
+	padding: 10px 10px 10px 10px;}
+	
+.showdescription{
+	float:left;
+	padding: 25px 0px 0px 10px;
+	display:block;
+	position: relative;
+	height: 210px;
+	width:180px;
+	margin-left: auto;
+	margin-right: auto;}
+	
+.cart{
+	min-height:0px;
+	max-width:1170px;
+	margin-left: auto;
+	margin-right: auto;}
+	
+.carttotal{
+	padding-right:50px;
+}
+
+.emptycart{
+	padding-left:50px;
+}
+
+.blockcart{
+	background-color: #d8d8d8;
+	height:70px;
+	width:450px;
+	margin-top: 60px;
+	margin-left: auto;
+	margin-right: auto;}
+	
+.blockcartcontent{
+	font-size: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px 0 0 20px;}
